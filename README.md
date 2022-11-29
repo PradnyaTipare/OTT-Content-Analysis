@@ -1,10 +1,12 @@
 # OTT Content Analysis
- 
+
+## Introduction
+
 The way we consume videos has undergone massive changes. Now we have multiple OTT platforms such as Netflix, Amazon Prime Video, Hulu, and Disney+ to stream TV shows and movies online. In 2019, the OTT market was valued at 85.16 billion USD, and it is expected to reach 194.20 billion USD by 2025. Under COVID-19, many countries introduced social distancing measures that forced theaters to limit the number of audiences or even shut down and that encouraged people to stay at home, accelerating the increase in OTT platform subscriptions. Therefore, I thought it was the right time to analyze different OTT platforms and provide useful information for people not able to decide which platform fits them best. 
 
 This study presents an analysis of four major OTT platforms — Netflix, Amazon Prime, Disney+ and Hulu. Amongst multiple factors affecting online streaming subscriptions, I mainly analyzed the content on the platforms like the Genres, TV Rating and Cast using Jupyter Notebook to explore and clean the dataset and Power BI to visualize the insights. 
 
-My Findings: 
+## My Findings: 
 
 1.	Amazon Prime and Netflix contains almost same amount of content. Movies are still dominant over TV Shows but there is slight drop in movies content from 2019 but TV show contents are increasing consistently.
 
